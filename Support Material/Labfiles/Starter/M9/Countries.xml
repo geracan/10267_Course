@@ -1,0 +1,242 @@
+<?xml version="1.0" standalone="yes"?>
+<Countries>
+  <Country ID="3032b345-092c-de11-8c6e-0003ff4ed632" Name="Afghanistan" PhoneNoFormat="" DialingCountryCode="93" InternationalDialingCode="00 " InternetTLD="AF" />
+  <Country ID="3132b345-092c-de11-8c6e-0003ff4ed632" Name="Albania" PhoneNoFormat="" DialingCountryCode="355" InternationalDialingCode="00 " InternetTLD="AL" />
+  <Country ID="3232b345-092c-de11-8c6e-0003ff4ed632" Name="Algeria" PhoneNoFormat="" DialingCountryCode="213" InternationalDialingCode="00 " InternetTLD="DZ" />
+  <Country ID="3332b345-092c-de11-8c6e-0003ff4ed632" Name="American Samoa" PhoneNoFormat="" DialingCountryCode="684" InternationalDialingCode="00 " InternetTLD="AS" />
+  <Country ID="3432b345-092c-de11-8c6e-0003ff4ed632" Name="Andorra" PhoneNoFormat="" DialingCountryCode="376" InternationalDialingCode="00 " InternetTLD="AD" />
+  <Country ID="3532b345-092c-de11-8c6e-0003ff4ed632" Name="Angola" PhoneNoFormat="" DialingCountryCode="244" InternationalDialingCode="00 " InternetTLD="AO" />
+  <Country ID="3632b345-092c-de11-8c6e-0003ff4ed632" Name="Anguilla" PhoneNoFormat="" DialingCountryCode="1-264" InternationalDialingCode="011 " InternetTLD="AI" />
+  <Country ID="3732b345-092c-de11-8c6e-0003ff4ed632" Name="Antarctica" PhoneNoFormat="" DialingCountryCode="672" InternationalDialingCode="00 " InternetTLD="AQ" />
+  <Country ID="3832b345-092c-de11-8c6e-0003ff4ed632" Name="Antigua" PhoneNoFormat="" DialingCountryCode="1-268" InternationalDialingCode="011 " InternetTLD="AG" />
+  <Country ID="3932b345-092c-de11-8c6e-0003ff4ed632" Name="Argentina" PhoneNoFormat="" DialingCountryCode="54" InternationalDialingCode="00 " InternetTLD="AR" />
+  <Country ID="3a32b345-092c-de11-8c6e-0003ff4ed632" Name="Armenia" PhoneNoFormat="" DialingCountryCode="374" InternationalDialingCode="00 " InternetTLD="AM" />
+  <Country ID="3b32b345-092c-de11-8c6e-0003ff4ed632" Name="Aruba" PhoneNoFormat="" DialingCountryCode="297" InternationalDialingCode="00 " InternetTLD="AW" />
+  <Country ID="3c32b345-092c-de11-8c6e-0003ff4ed632" Name="Ascension Island" PhoneNoFormat="" DialingCountryCode="247" InternationalDialingCode="01 " InternetTLD="AS" />
+  <Country ID="3d32b345-092c-de11-8c6e-0003ff4ed632" Name="Australia" PhoneNoFormat="" DialingCountryCode="61" InternationalDialingCode="0011 " InternetTLD="AU" />
+  <Country ID="3e32b345-092c-de11-8c6e-0003ff4ed632" Name="Austria" PhoneNoFormat="" DialingCountryCode="43" InternationalDialingCode="00 " InternetTLD="AT" />
+  <Country ID="3f32b345-092c-de11-8c6e-0003ff4ed632" Name="Azerbaijan" PhoneNoFormat="" DialingCountryCode="994" InternationalDialingCode="00" InternetTLD="AZ" />
+  <Country ID="4032b345-092c-de11-8c6e-0003ff4ed632" Name="Bahamas" PhoneNoFormat="" DialingCountryCode="1-242" InternationalDialingCode="011 " InternetTLD="BS" />
+  <Country ID="4132b345-092c-de11-8c6e-0003ff4ed632" Name="Bahrain" PhoneNoFormat="" DialingCountryCode="973" InternationalDialingCode="00" InternetTLD="BH" />
+  <Country ID="4232b345-092c-de11-8c6e-0003ff4ed632" Name="Bangladesh" PhoneNoFormat="" DialingCountryCode="880" InternationalDialingCode="00 " InternetTLD="BD" />
+  <Country ID="4332b345-092c-de11-8c6e-0003ff4ed632" Name="Barbados" PhoneNoFormat="" DialingCountryCode="1-246" InternationalDialingCode="011 " InternetTLD="BB" />
+  <Country ID="4432b345-092c-de11-8c6e-0003ff4ed632" Name="Barbuda " PhoneNoFormat="" DialingCountryCode="1-268" InternationalDialingCode="011 " InternetTLD="AG" />
+  <Country ID="4532b345-092c-de11-8c6e-0003ff4ed632" Name="Belarus" PhoneNoFormat="" DialingCountryCode="375" InternationalDialingCode="8-10 " InternetTLD="BY" />
+  <Country ID="4632b345-092c-de11-8c6e-0003ff4ed632" Name="Belgium" PhoneNoFormat="" DialingCountryCode="32" InternationalDialingCode="00 " InternetTLD="BE" />
+  <Country ID="4732b345-092c-de11-8c6e-0003ff4ed632" Name="Belize" PhoneNoFormat="" DialingCountryCode="501" InternationalDialingCode="00 " InternetTLD="BZ" />
+  <Country ID="4832b345-092c-de11-8c6e-0003ff4ed632" Name="Benin" PhoneNoFormat="" DialingCountryCode="229" InternationalDialingCode="00 " InternetTLD="BJ" />
+  <Country ID="4932b345-092c-de11-8c6e-0003ff4ed632" Name="Bermuda" PhoneNoFormat="" DialingCountryCode="1-441" InternationalDialingCode="011 " InternetTLD="BM" />
+  <Country ID="4a32b345-092c-de11-8c6e-0003ff4ed632" Name="Bhutan" PhoneNoFormat="" DialingCountryCode="975" InternationalDialingCode="00 " InternetTLD="BT" />
+  <Country ID="4b32b345-092c-de11-8c6e-0003ff4ed632" Name="Bolivia" PhoneNoFormat="" DialingCountryCode="591" InternationalDialingCode="00 " InternetTLD="BO" />
+  <Country ID="4c32b345-092c-de11-8c6e-0003ff4ed632" Name="Bosnia-Herzegovina" PhoneNoFormat="" DialingCountryCode="387" InternationalDialingCode="00 " InternetTLD="BA" />
+  <Country ID="4d32b345-092c-de11-8c6e-0003ff4ed632" Name="Botswana" PhoneNoFormat="" DialingCountryCode="267" InternationalDialingCode="00 " InternetTLD="BW" />
+  <Country ID="4e32b345-092c-de11-8c6e-0003ff4ed632" Name="Brazil" PhoneNoFormat="" DialingCountryCode="55" InternationalDialingCode="0021 " InternetTLD="BR" />
+  <Country ID="4f32b345-092c-de11-8c6e-0003ff4ed632" Name="British Virgin Islands" PhoneNoFormat="" DialingCountryCode="1-284" InternationalDialingCode="011 " InternetTLD="VG" />
+  <Country ID="5032b345-092c-de11-8c6e-0003ff4ed632" Name="Brunei" PhoneNoFormat="" DialingCountryCode="673" InternationalDialingCode="00 " InternetTLD="BN" />
+  <Country ID="5132b345-092c-de11-8c6e-0003ff4ed632" Name="Bulgaria" PhoneNoFormat="" DialingCountryCode="359" InternationalDialingCode="00 " InternetTLD="BG" />
+  <Country ID="5232b345-092c-de11-8c6e-0003ff4ed632" Name="Burkina Faso" PhoneNoFormat="" DialingCountryCode="226" InternationalDialingCode="00 " InternetTLD="BF" />
+  <Country ID="5332b345-092c-de11-8c6e-0003ff4ed632" Name="Burundi" PhoneNoFormat="" DialingCountryCode="257" InternationalDialingCode="90 " InternetTLD="BI" />
+  <Country ID="5432b345-092c-de11-8c6e-0003ff4ed632" Name="Cambodia" PhoneNoFormat="" DialingCountryCode="855" InternationalDialingCode="00 " InternetTLD="KH" />
+  <Country ID="5532b345-092c-de11-8c6e-0003ff4ed632" Name="Cameroon" PhoneNoFormat="" DialingCountryCode="237" InternationalDialingCode="00 " InternetTLD="CM" />
+  <Country ID="5632b345-092c-de11-8c6e-0003ff4ed632" Name="Canada" PhoneNoFormat="" DialingCountryCode="1" InternationalDialingCode="011 " InternetTLD="CA" />
+  <Country ID="5732b345-092c-de11-8c6e-0003ff4ed632" Name="Cape Verde" PhoneNoFormat="" DialingCountryCode="238" InternationalDialingCode="00 " InternetTLD="CV" />
+  <Country ID="5832b345-092c-de11-8c6e-0003ff4ed632" Name="Cayman Islands" PhoneNoFormat="" DialingCountryCode="1-345" InternationalDialingCode="011 " InternetTLD="KY" />
+  <Country ID="5932b345-092c-de11-8c6e-0003ff4ed632" Name="Central African Republic" PhoneNoFormat="" DialingCountryCode="236" InternationalDialingCode="19 " InternetTLD="CF" />
+  <Country ID="5a32b345-092c-de11-8c6e-0003ff4ed632" Name="Chad" PhoneNoFormat="" DialingCountryCode="235" InternationalDialingCode="15 " InternetTLD="TD" />
+  <Country ID="5b32b345-092c-de11-8c6e-0003ff4ed632" Name="Chile" PhoneNoFormat="" DialingCountryCode="56" InternationalDialingCode="00 " InternetTLD="CL" />
+  <Country ID="5c32b345-092c-de11-8c6e-0003ff4ed632" Name="China" PhoneNoFormat="" DialingCountryCode="86" InternationalDialingCode="00 " InternetTLD="CN" />
+  <Country ID="5d32b345-092c-de11-8c6e-0003ff4ed632" Name="Christmas Island" PhoneNoFormat="" DialingCountryCode="61" InternationalDialingCode="00 " InternetTLD="CX" />
+  <Country ID="5e32b345-092c-de11-8c6e-0003ff4ed632" Name="Colombia" PhoneNoFormat="" DialingCountryCode="57" InternationalDialingCode="009 " InternetTLD="CO" />
+  <Country ID="5f32b345-092c-de11-8c6e-0003ff4ed632" Name="Comoros" PhoneNoFormat="" DialingCountryCode="269" InternationalDialingCode="10 " InternetTLD="KM" />
+  <Country ID="6032b345-092c-de11-8c6e-0003ff4ed632" Name="Congo" PhoneNoFormat="" DialingCountryCode="242" InternationalDialingCode="00 " InternetTLD="CG" />
+  <Country ID="6132b345-092c-de11-8c6e-0003ff4ed632" Name="Cook Island" PhoneNoFormat="" DialingCountryCode="682" InternationalDialingCode="00 " InternetTLD="CK" />
+  <Country ID="30f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Costa Rica" PhoneNoFormat="" DialingCountryCode="506" InternationalDialingCode="00 " InternetTLD="CR" />
+  <Country ID="31f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Ivory Coast" PhoneNoFormat="" DialingCountryCode="225" InternationalDialingCode="00 " InternetTLD="CI" />
+  <Country ID="32f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Croatia" PhoneNoFormat="" DialingCountryCode="385" InternationalDialingCode="00 " InternetTLD="HR" />
+  <Country ID="33f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Cuba" PhoneNoFormat="" DialingCountryCode="53" InternationalDialingCode="119 " InternetTLD="CU" />
+  <Country ID="34f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Curacao" PhoneNoFormat="" DialingCountryCode="599" InternationalDialingCode="00 " InternetTLD="AN" />
+  <Country ID="35f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Cyprus" PhoneNoFormat="" DialingCountryCode="357" InternationalDialingCode="00 " InternetTLD="CY" />
+  <Country ID="36f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Czech Republic" PhoneNoFormat="" DialingCountryCode="420" InternationalDialingCode="00 " InternetTLD="CZ" />
+  <Country ID="37f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Democratic Republic Congo" PhoneNoFormat="" DialingCountryCode="243" InternationalDialingCode="00 " InternetTLD="CD" />
+  <Country ID="38f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Denmark" PhoneNoFormat="## ## ## ##" DialingCountryCode="45" InternationalDialingCode="00 " InternetTLD="DK" />
+  <Country ID="39f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Diego Garcia Island" PhoneNoFormat="" DialingCountryCode="246" InternationalDialingCode="00 " InternetTLD="IO" />
+  <Country ID="3af5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Djibouti" PhoneNoFormat="" DialingCountryCode="253" InternationalDialingCode="00 " InternetTLD="DJ" />
+  <Country ID="3bf5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Dominica" PhoneNoFormat="" DialingCountryCode="1-767" InternationalDialingCode="011 " InternetTLD="DM" />
+  <Country ID="3cf5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Dominican Republic" PhoneNoFormat="" DialingCountryCode="1-809" InternationalDialingCode="011 " InternetTLD="DO" />
+  <Country ID="3df5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Easter Island" PhoneNoFormat="" DialingCountryCode="56" InternationalDialingCode="00 " InternetTLD="CL" />
+  <Country ID="3ef5ad4b-092c-de11-8c6e-0003ff4ed632" Name="East Timor" PhoneNoFormat="" DialingCountryCode="670" InternationalDialingCode="00 " InternetTLD="TP" />
+  <Country ID="3ff5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Ecuador" PhoneNoFormat="" DialingCountryCode="593" InternationalDialingCode="00 " InternetTLD="EC" />
+  <Country ID="40f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Egypt" PhoneNoFormat="" DialingCountryCode="20" InternationalDialingCode="00 " InternetTLD="EG" />
+  <Country ID="41f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="El Salvador" PhoneNoFormat="" DialingCountryCode="503" InternationalDialingCode="00 " InternetTLD="SV" />
+  <Country ID="42f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Equatorial Guinea" PhoneNoFormat="" DialingCountryCode="240" InternationalDialingCode="00 " InternetTLD="GQ" />
+  <Country ID="43f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Eritrea" PhoneNoFormat="" DialingCountryCode="291" InternationalDialingCode="00 " InternetTLD="ER" />
+  <Country ID="44f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Estonia" PhoneNoFormat="" DialingCountryCode="372" InternationalDialingCode="8 00 " InternetTLD="EE" />
+  <Country ID="45f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Ethiopia" PhoneNoFormat="" DialingCountryCode="251" InternationalDialingCode="00 " InternetTLD="ET" />
+  <Country ID="46f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Faeroe Islands" PhoneNoFormat="" DialingCountryCode="298" InternationalDialingCode="009 " InternetTLD="FO" />
+  <Country ID="47f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Falkland Islands" PhoneNoFormat="" DialingCountryCode="500" InternationalDialingCode="0 " InternetTLD="FK" />
+  <Country ID="48f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Fiji" PhoneNoFormat="" DialingCountryCode="679" InternationalDialingCode="05 " InternetTLD="FJ" />
+  <Country ID="49f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Finland" PhoneNoFormat="" DialingCountryCode="358" InternationalDialingCode="00 " InternetTLD="FI" />
+  <Country ID="4af5ad4b-092c-de11-8c6e-0003ff4ed632" Name="France" PhoneNoFormat="" DialingCountryCode="33" InternationalDialingCode="00 " InternetTLD="FR" />
+  <Country ID="4bf5ad4b-092c-de11-8c6e-0003ff4ed632" Name="French Antilles" PhoneNoFormat="" DialingCountryCode="596" InternationalDialingCode="00 " InternetTLD="FR" />
+  <Country ID="4cf5ad4b-092c-de11-8c6e-0003ff4ed632" Name="French Guiana" PhoneNoFormat="" DialingCountryCode="594" InternationalDialingCode="00 " InternetTLD="GF" />
+  <Country ID="4df5ad4b-092c-de11-8c6e-0003ff4ed632" Name="French Polynesia" PhoneNoFormat="" DialingCountryCode="689" InternationalDialingCode="00 " InternetTLD="PF" />
+  <Country ID="4ef5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Gabon" PhoneNoFormat="" DialingCountryCode="241" InternationalDialingCode="00 " InternetTLD="GA" />
+  <Country ID="4ff5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Gambia" PhoneNoFormat="" DialingCountryCode="220" InternationalDialingCode="00 " InternetTLD="GM" />
+  <Country ID="50f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Georgia" PhoneNoFormat="" DialingCountryCode="995" InternationalDialingCode="8 10 " InternetTLD="GE" />
+  <Country ID="51f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Germany" PhoneNoFormat="" DialingCountryCode="49" InternationalDialingCode="00 " InternetTLD="DE" />
+  <Country ID="52f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Ghana" PhoneNoFormat="" DialingCountryCode="233" InternationalDialingCode="00 " InternetTLD="GH" />
+  <Country ID="63750c5e-092c-de11-8c6e-0003ff4ed632" Name="Great Britain" PhoneNoFormat="" DialingCountryCode="44" InternationalDialingCode="00 " InternetTLD="GB" />
+  <Country ID="53f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Greece" PhoneNoFormat="" DialingCountryCode="30" InternationalDialingCode="00 " InternetTLD="GR" />
+  <Country ID="54f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Greenland" PhoneNoFormat="" DialingCountryCode="299" InternationalDialingCode="009 " InternetTLD="GL" />
+  <Country ID="55f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Grenada" PhoneNoFormat="" DialingCountryCode="1-473" InternationalDialingCode="011 " InternetTLD="GD" />
+  <Country ID="56f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Guadeloupe" PhoneNoFormat="" DialingCountryCode="590" InternationalDialingCode="00 " InternetTLD="GP" />
+  <Country ID="57f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Guam" PhoneNoFormat="" DialingCountryCode="1-671" InternationalDialingCode="011 " InternetTLD="GU" />
+  <Country ID="58f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Guatemala" PhoneNoFormat="" DialingCountryCode="502" InternationalDialingCode="00 " InternetTLD="GT" />
+  <Country ID="59f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Guinea" PhoneNoFormat="" DialingCountryCode="224" InternationalDialingCode="00 " InternetTLD="GN" />
+  <Country ID="5af5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Guinea Bissau" PhoneNoFormat="" DialingCountryCode="245" InternationalDialingCode="00 " InternetTLD="GW" />
+  <Country ID="5bf5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Guyana" PhoneNoFormat="" DialingCountryCode="592" InternationalDialingCode="001 " InternetTLD="GY" />
+  <Country ID="5cf5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Haiti" PhoneNoFormat="" DialingCountryCode="509" InternationalDialingCode="00 " InternetTLD="HT" />
+  <Country ID="5df5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Honduras" PhoneNoFormat="" DialingCountryCode="504" InternationalDialingCode="00 " InternetTLD="HN" />
+  <Country ID="5ef5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Hungary" PhoneNoFormat="" DialingCountryCode="36" InternationalDialingCode="00 " InternetTLD="HU" />
+  <Country ID="5ff5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Iceland" PhoneNoFormat="" DialingCountryCode="354" InternationalDialingCode="00 " InternetTLD="IS" />
+  <Country ID="60f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="India" PhoneNoFormat="" DialingCountryCode="91" InternationalDialingCode="00 " InternetTLD="IN" />
+  <Country ID="61f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Indonesia" PhoneNoFormat="" DialingCountryCode="62" InternationalDialingCode="001 " InternetTLD="ID" />
+  <Country ID="62f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Iran" PhoneNoFormat="" DialingCountryCode="98" InternationalDialingCode="00 " InternetTLD="IR" />
+  <Country ID="63f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Iraq" PhoneNoFormat="" DialingCountryCode="964" InternationalDialingCode="00 " InternetTLD="IQ" />
+  <Country ID="64f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Ireland" PhoneNoFormat="(0##) ### #### " DialingCountryCode="353" InternationalDialingCode="00 " InternetTLD="IE" />
+  <Country ID="65f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Israel" PhoneNoFormat="" DialingCountryCode="972" InternationalDialingCode="00 " InternetTLD="IL" />
+  <Country ID="66f5ad4b-092c-de11-8c6e-0003ff4ed632" Name="Italy" PhoneNoFormat="" DialingCountryCode="39" InternationalDialingCode="00 " InternetTLD="IT" />
+  <Country ID="a033c351-092c-de11-8c6e-0003ff4ed632" Name="Jamaica" PhoneNoFormat="" DialingCountryCode="1-876" InternationalDialingCode="011 " InternetTLD="JM" />
+  <Country ID="a133c351-092c-de11-8c6e-0003ff4ed632" Name="Japan" PhoneNoFormat="" DialingCountryCode="81" InternationalDialingCode="001 " InternetTLD="JP" />
+  <Country ID="a233c351-092c-de11-8c6e-0003ff4ed632" Name="Jordan" PhoneNoFormat="" DialingCountryCode="962" InternationalDialingCode="00 " InternetTLD="JO" />
+  <Country ID="a333c351-092c-de11-8c6e-0003ff4ed632" Name="Kazakstan" PhoneNoFormat="" DialingCountryCode="7" InternationalDialingCode="8-10 " InternetTLD="KZ" />
+  <Country ID="a433c351-092c-de11-8c6e-0003ff4ed632" Name="Keeling Islands" PhoneNoFormat="" DialingCountryCode="61" InternationalDialingCode="0011 " InternetTLD="CC" />
+  <Country ID="a533c351-092c-de11-8c6e-0003ff4ed632" Name="Kenya" PhoneNoFormat="" DialingCountryCode="254" InternationalDialingCode="000 " InternetTLD="KE" />
+  <Country ID="a633c351-092c-de11-8c6e-0003ff4ed632" Name="Kiribati" PhoneNoFormat="" DialingCountryCode="686" InternationalDialingCode="00 " InternetTLD="KI" />
+  <Country ID="a733c351-092c-de11-8c6e-0003ff4ed632" Name="North Korea" PhoneNoFormat="" DialingCountryCode="850" InternationalDialingCode="00 " InternetTLD="KP" />
+  <Country ID="a833c351-092c-de11-8c6e-0003ff4ed632" Name="South Korea" PhoneNoFormat="" DialingCountryCode="82" InternationalDialingCode="001 " InternetTLD="KR" />
+  <Country ID="a933c351-092c-de11-8c6e-0003ff4ed632" Name="Kuwait" PhoneNoFormat="" DialingCountryCode="965" InternationalDialingCode="00 " InternetTLD="KW" />
+  <Country ID="aa33c351-092c-de11-8c6e-0003ff4ed632" Name="Kyrgyzstan" PhoneNoFormat="" DialingCountryCode="996" InternationalDialingCode="8-10 " InternetTLD="KG" />
+  <Country ID="b0a4c380-0a2c-de11-8c6e-0003ff4ed632" Name="Laos" DialingCountryCode="856" InternationalDialingCode="00" InternetTLD="LA" />
+  <Country ID="10e10b58-092c-de11-8c6e-0003ff4ed632" Name="Latvia" PhoneNoFormat="" DialingCountryCode="371" InternationalDialingCode="00 " InternetTLD="LV" />
+  <Country ID="11e10b58-092c-de11-8c6e-0003ff4ed632" Name="Lebanon" PhoneNoFormat="" DialingCountryCode="961" InternationalDialingCode="00 " InternetTLD="LB" />
+  <Country ID="12e10b58-092c-de11-8c6e-0003ff4ed632" Name="Lesotho" PhoneNoFormat="" DialingCountryCode="266" InternationalDialingCode="00 " InternetTLD="LS" />
+  <Country ID="13e10b58-092c-de11-8c6e-0003ff4ed632" Name="Liberia" PhoneNoFormat="" DialingCountryCode="231" InternationalDialingCode="00 " InternetTLD="LR" />
+  <Country ID="14e10b58-092c-de11-8c6e-0003ff4ed632" Name="Libya" PhoneNoFormat="" DialingCountryCode="218" InternationalDialingCode="00 " InternetTLD="LY" />
+  <Country ID="15e10b58-092c-de11-8c6e-0003ff4ed632" Name="Liechtenstein" PhoneNoFormat="" DialingCountryCode="423" InternationalDialingCode="00 " InternetTLD="LI" />
+  <Country ID="16e10b58-092c-de11-8c6e-0003ff4ed632" Name="Lithuania" PhoneNoFormat="" DialingCountryCode="370" InternationalDialingCode="8-10 " InternetTLD="LT" />
+  <Country ID="17e10b58-092c-de11-8c6e-0003ff4ed632" Name="Luxembourg" PhoneNoFormat="" DialingCountryCode="352" InternationalDialingCode="00 " InternetTLD="LU" />
+  <Country ID="18e10b58-092c-de11-8c6e-0003ff4ed632" Name="Macau" PhoneNoFormat="" DialingCountryCode="853" InternationalDialingCode="00 " InternetTLD="MO" />
+  <Country ID="19e10b58-092c-de11-8c6e-0003ff4ed632" Name="Macedonia" PhoneNoFormat="" DialingCountryCode="389" InternationalDialingCode="00 " InternetTLD="MK" />
+  <Country ID="1ae10b58-092c-de11-8c6e-0003ff4ed632" Name="Madagascar" PhoneNoFormat="" DialingCountryCode="261" InternationalDialingCode="00 " InternetTLD="MG" />
+  <Country ID="1be10b58-092c-de11-8c6e-0003ff4ed632" Name="Malawi" PhoneNoFormat="" DialingCountryCode="265" InternationalDialingCode="101 " InternetTLD="MW" />
+  <Country ID="1ce10b58-092c-de11-8c6e-0003ff4ed632" Name="Malaysia" PhoneNoFormat="" DialingCountryCode="60" InternationalDialingCode="00 " InternetTLD="MY" />
+  <Country ID="1de10b58-092c-de11-8c6e-0003ff4ed632" Name="Maldives" PhoneNoFormat="" DialingCountryCode="960" InternationalDialingCode="00 " InternetTLD="MV" />
+  <Country ID="1ee10b58-092c-de11-8c6e-0003ff4ed632" Name="Mali" PhoneNoFormat="" DialingCountryCode="223" InternationalDialingCode="00 " InternetTLD="ML" />
+  <Country ID="1fe10b58-092c-de11-8c6e-0003ff4ed632" Name="Malta" PhoneNoFormat="" DialingCountryCode="356" InternationalDialingCode="00 " InternetTLD="MT" />
+  <Country ID="20e10b58-092c-de11-8c6e-0003ff4ed632" Name="Marshall Islands" PhoneNoFormat="" DialingCountryCode="692" InternationalDialingCode="011 " InternetTLD="MH" />
+  <Country ID="21e10b58-092c-de11-8c6e-0003ff4ed632" Name="Martinique" PhoneNoFormat="" DialingCountryCode="596" InternationalDialingCode="00 " InternetTLD="MQ" />
+  <Country ID="22e10b58-092c-de11-8c6e-0003ff4ed632" Name="Mauritania" PhoneNoFormat="" DialingCountryCode="222" InternationalDialingCode="00 " InternetTLD="MR" />
+  <Country ID="23e10b58-092c-de11-8c6e-0003ff4ed632" Name="Mauritius" PhoneNoFormat="" DialingCountryCode="230" InternationalDialingCode="00 " InternetTLD="MU" />
+  <Country ID="24e10b58-092c-de11-8c6e-0003ff4ed632" Name="Mayotte" PhoneNoFormat="" DialingCountryCode="269" InternationalDialingCode="10 " InternetTLD="YT" />
+  <Country ID="25e10b58-092c-de11-8c6e-0003ff4ed632" Name="Mexico" PhoneNoFormat="" DialingCountryCode="52" InternationalDialingCode="00 " InternetTLD="MX" />
+  <Country ID="26e10b58-092c-de11-8c6e-0003ff4ed632" Name="Micronesia" PhoneNoFormat="" DialingCountryCode="691" InternationalDialingCode="011 " InternetTLD="FM" />
+  <Country ID="27e10b58-092c-de11-8c6e-0003ff4ed632" Name="Midway Island" PhoneNoFormat="" DialingCountryCode="808" InternationalDialingCode="00 " InternetTLD="UM" />
+  <Country ID="28e10b58-092c-de11-8c6e-0003ff4ed632" Name="Moldova" PhoneNoFormat="" DialingCountryCode="373" InternationalDialingCode="00 " InternetTLD="MD" />
+  <Country ID="29e10b58-092c-de11-8c6e-0003ff4ed632" Name="Monaco" PhoneNoFormat="" DialingCountryCode="377" InternationalDialingCode="00 " InternetTLD="MC" />
+  <Country ID="2ae10b58-092c-de11-8c6e-0003ff4ed632" Name="Mongolia" PhoneNoFormat="" DialingCountryCode="976" InternationalDialingCode="00 " InternetTLD="MN" />
+  <Country ID="2be10b58-092c-de11-8c6e-0003ff4ed632" Name="Montserrat" PhoneNoFormat="" DialingCountryCode="1-664" InternationalDialingCode="011 " InternetTLD="MS" />
+  <Country ID="2ce10b58-092c-de11-8c6e-0003ff4ed632" Name="Morocco" PhoneNoFormat="" DialingCountryCode="212" InternationalDialingCode="00 " InternetTLD="MA" />
+  <Country ID="2de10b58-092c-de11-8c6e-0003ff4ed632" Name="Mozambique" PhoneNoFormat="" DialingCountryCode="258" InternationalDialingCode="00 " InternetTLD="MZ" />
+  <Country ID="2ee10b58-092c-de11-8c6e-0003ff4ed632" Name="Myanmar" PhoneNoFormat="" DialingCountryCode="95" InternationalDialingCode="0 " InternetTLD="MM" />
+  <Country ID="2fe10b58-092c-de11-8c6e-0003ff4ed632" Name="Northern Mariana Islands" PhoneNoFormat="" DialingCountryCode="1-670" InternationalDialingCode="011 " InternetTLD="MP" />
+  <Country ID="30e10b58-092c-de11-8c6e-0003ff4ed632" Name="Namibia" PhoneNoFormat="" DialingCountryCode="264" InternationalDialingCode="09 " InternetTLD="NA" />
+  <Country ID="31e10b58-092c-de11-8c6e-0003ff4ed632" Name="Nauru" PhoneNoFormat="" DialingCountryCode="674" InternationalDialingCode="00 " InternetTLD="NR" />
+  <Country ID="32e10b58-092c-de11-8c6e-0003ff4ed632" Name="Nepal" PhoneNoFormat="" DialingCountryCode="977" InternationalDialingCode="00 " InternetTLD="NP" />
+  <Country ID="33e10b58-092c-de11-8c6e-0003ff4ed632" Name="Netherlands" PhoneNoFormat="" DialingCountryCode="31" InternationalDialingCode="00 " InternetTLD="NL" />
+  <Country ID="34e10b58-092c-de11-8c6e-0003ff4ed632" Name="Netherlands Antilles" PhoneNoFormat="" DialingCountryCode="599" InternationalDialingCode="00 " InternetTLD="AN" />
+  <Country ID="35e10b58-092c-de11-8c6e-0003ff4ed632" Name="Nevis" PhoneNoFormat="" DialingCountryCode="869" InternationalDialingCode="011 " InternetTLD="KN" />
+  <Country ID="36e10b58-092c-de11-8c6e-0003ff4ed632" Name="New Caledonia" PhoneNoFormat="" DialingCountryCode="687" InternationalDialingCode="00 " InternetTLD="NC" />
+  <Country ID="37e10b58-092c-de11-8c6e-0003ff4ed632" Name="New Zealand" PhoneNoFormat="" DialingCountryCode="64" InternationalDialingCode="00 " InternetTLD="NZ" />
+  <Country ID="38e10b58-092c-de11-8c6e-0003ff4ed632" Name="Nicaragua" PhoneNoFormat="" DialingCountryCode="505" InternationalDialingCode="00 " InternetTLD="NI" />
+  <Country ID="39e10b58-092c-de11-8c6e-0003ff4ed632" Name="Niger" PhoneNoFormat="" DialingCountryCode="227" InternationalDialingCode="00 " InternetTLD="NE" />
+  <Country ID="3ae10b58-092c-de11-8c6e-0003ff4ed632" Name="Nigeria" PhoneNoFormat="" DialingCountryCode="234" InternationalDialingCode="009 " InternetTLD="NG" />
+  <Country ID="3be10b58-092c-de11-8c6e-0003ff4ed632" Name="Niue" PhoneNoFormat="" DialingCountryCode="683" InternationalDialingCode="00 " InternetTLD="NU" />
+  <Country ID="3ce10b58-092c-de11-8c6e-0003ff4ed632" Name="Norfolk Island" PhoneNoFormat="" DialingCountryCode="672" InternationalDialingCode="00 " InternetTLD="NF" />
+  <Country ID="3de10b58-092c-de11-8c6e-0003ff4ed632" Name="Norway" PhoneNoFormat="" DialingCountryCode="47" InternationalDialingCode="00 " InternetTLD="NO" />
+  <Country ID="3ee10b58-092c-de11-8c6e-0003ff4ed632" Name="Oman" PhoneNoFormat="" DialingCountryCode="968" InternationalDialingCode="00 " InternetTLD="OM" />
+  <Country ID="3fe10b58-092c-de11-8c6e-0003ff4ed632" Name="Pakistan" PhoneNoFormat="" DialingCountryCode="92" InternationalDialingCode="00 " InternetTLD="PK" />
+  <Country ID="40e10b58-092c-de11-8c6e-0003ff4ed632" Name="Palau" PhoneNoFormat="" DialingCountryCode="680" InternationalDialingCode="011 " InternetTLD="PW" />
+  <Country ID="41e10b58-092c-de11-8c6e-0003ff4ed632" Name="Palestine" PhoneNoFormat="" DialingCountryCode="970" InternationalDialingCode="00 " InternetTLD="PS" />
+  <Country ID="42e10b58-092c-de11-8c6e-0003ff4ed632" Name="Panama" PhoneNoFormat="" DialingCountryCode="507" InternationalDialingCode="0 " InternetTLD="PA" />
+  <Country ID="43e10b58-092c-de11-8c6e-0003ff4ed632" Name="Papua New Guinea" PhoneNoFormat="" DialingCountryCode="675" InternationalDialingCode="05 " InternetTLD="PG" />
+  <Country ID="44e10b58-092c-de11-8c6e-0003ff4ed632" Name="Paraguay" PhoneNoFormat="" DialingCountryCode="595" InternationalDialingCode="00 " InternetTLD="PY" />
+  <Country ID="45e10b58-092c-de11-8c6e-0003ff4ed632" Name="Peru" PhoneNoFormat="" DialingCountryCode="51" InternationalDialingCode="00 " InternetTLD="PE" />
+  <Country ID="30750c5e-092c-de11-8c6e-0003ff4ed632" Name="Philippines" PhoneNoFormat="" DialingCountryCode="63" InternationalDialingCode="00 " InternetTLD="PH" />
+  <Country ID="31750c5e-092c-de11-8c6e-0003ff4ed632" Name="Poland" PhoneNoFormat="" DialingCountryCode="48" InternationalDialingCode="0 0 " InternetTLD="PL" />
+  <Country ID="32750c5e-092c-de11-8c6e-0003ff4ed632" Name="Portugal" PhoneNoFormat="" DialingCountryCode="351" InternationalDialingCode="00 " InternetTLD="PT" />
+  <Country ID="33750c5e-092c-de11-8c6e-0003ff4ed632" Name="Puerto Rico" PhoneNoFormat="" DialingCountryCode="1-787" InternationalDialingCode="011 " InternetTLD="PR" />
+  <Country ID="34750c5e-092c-de11-8c6e-0003ff4ed632" Name="Qatar" PhoneNoFormat="" DialingCountryCode="974" InternationalDialingCode="0 " InternetTLD="QA" />
+  <Country ID="35750c5e-092c-de11-8c6e-0003ff4ed632" Name="Reunion" PhoneNoFormat="" DialingCountryCode="262" InternationalDialingCode="00 " InternetTLD="RE" />
+  <Country ID="36750c5e-092c-de11-8c6e-0003ff4ed632" Name="Romania" PhoneNoFormat="" DialingCountryCode="40" InternationalDialingCode="00 " InternetTLD="RO" />
+  <Country ID="37750c5e-092c-de11-8c6e-0003ff4ed632" Name="Russia" PhoneNoFormat="" DialingCountryCode="998" InternationalDialingCode="8-10 " InternetTLD="RU" />
+  <Country ID="38750c5e-092c-de11-8c6e-0003ff4ed632" Name="Rwanda" PhoneNoFormat="" DialingCountryCode="250" InternationalDialingCode="00 " InternetTLD="RW" />
+  <Country ID="39750c5e-092c-de11-8c6e-0003ff4ed632" Name="San Marino" PhoneNoFormat="" DialingCountryCode="378" InternationalDialingCode="00 " InternetTLD="SM" />
+  <Country ID="3a750c5e-092c-de11-8c6e-0003ff4ed632" Name="Sao Tome e Principe" PhoneNoFormat="" DialingCountryCode="239" InternationalDialingCode="01 " InternetTLD="ST" />
+  <Country ID="3b750c5e-092c-de11-8c6e-0003ff4ed632" Name="Saudi Arabia" PhoneNoFormat="" DialingCountryCode="966" InternationalDialingCode="00 " InternetTLD="SA" />
+  <Country ID="3c750c5e-092c-de11-8c6e-0003ff4ed632" Name="Senegal" PhoneNoFormat="" DialingCountryCode="221" InternationalDialingCode="00 " InternetTLD="SN" />
+  <Country ID="3d750c5e-092c-de11-8c6e-0003ff4ed632" Name="Serbia" PhoneNoFormat="" DialingCountryCode="381" InternationalDialingCode="99 " InternetTLD="RS" />
+  <Country ID="3e750c5e-092c-de11-8c6e-0003ff4ed632" Name="Seychelles" PhoneNoFormat="" DialingCountryCode="248" InternationalDialingCode="00 " InternetTLD="SC" />
+  <Country ID="3f750c5e-092c-de11-8c6e-0003ff4ed632" Name="Sierra Leona" PhoneNoFormat="" DialingCountryCode="232" InternationalDialingCode="00 " InternetTLD="SL" />
+  <Country ID="40750c5e-092c-de11-8c6e-0003ff4ed632" Name="Singapore" PhoneNoFormat="" DialingCountryCode="65" InternationalDialingCode="001 " InternetTLD="SG" />
+  <Country ID="41750c5e-092c-de11-8c6e-0003ff4ed632" Name="Slovakia" PhoneNoFormat="" DialingCountryCode="421" InternationalDialingCode="00 " InternetTLD="SK" />
+  <Country ID="42750c5e-092c-de11-8c6e-0003ff4ed632" Name="Slovenia" PhoneNoFormat="" DialingCountryCode="386" InternationalDialingCode="00 " InternetTLD="SL" />
+  <Country ID="43750c5e-092c-de11-8c6e-0003ff4ed632" Name="Solomon Islands" PhoneNoFormat="" DialingCountryCode="677" InternationalDialingCode="00 " InternetTLD="SB" />
+  <Country ID="44750c5e-092c-de11-8c6e-0003ff4ed632" Name="Somalia" PhoneNoFormat="" DialingCountryCode="252" InternationalDialingCode="19 " InternetTLD="SO" />
+  <Country ID="45750c5e-092c-de11-8c6e-0003ff4ed632" Name="South Africa" PhoneNoFormat="" DialingCountryCode="27" InternationalDialingCode="09 " InternetTLD="ZA" />
+  <Country ID="46750c5e-092c-de11-8c6e-0003ff4ed632" Name="Spain" PhoneNoFormat="" DialingCountryCode="34" InternationalDialingCode="00 " InternetTLD="ES" />
+  <Country ID="47750c5e-092c-de11-8c6e-0003ff4ed632" Name="Sri Lanka" PhoneNoFormat="" DialingCountryCode="94" InternationalDialingCode="00 " InternetTLD="LK" />
+  <Country ID="48750c5e-092c-de11-8c6e-0003ff4ed632" Name="St. Helena" PhoneNoFormat="" DialingCountryCode="290" InternationalDialingCode="01 " InternetTLD="SH" />
+  <Country ID="49750c5e-092c-de11-8c6e-0003ff4ed632" Name="Saint Kitts" PhoneNoFormat="" DialingCountryCode="1-869" InternationalDialingCode="011 " InternetTLD="KN" />
+  <Country ID="4a750c5e-092c-de11-8c6e-0003ff4ed632" Name="Saint Lucia" PhoneNoFormat="" DialingCountryCode="1-758" InternationalDialingCode="011 " InternetTLD="LC" />
+  <Country ID="4b750c5e-092c-de11-8c6e-0003ff4ed632" Name="St. Pierre and Miquelon" PhoneNoFormat="" DialingCountryCode="508" InternationalDialingCode="00 " InternetTLD="PM" />
+  <Country ID="4c750c5e-092c-de11-8c6e-0003ff4ed632" Name="Saint Vincent" PhoneNoFormat="" DialingCountryCode="1-784" InternationalDialingCode="011 " InternetTLD="VC" />
+  <Country ID="4d750c5e-092c-de11-8c6e-0003ff4ed632" Name="Sudan" PhoneNoFormat="" DialingCountryCode="249" InternationalDialingCode="00 " InternetTLD="SD" />
+  <Country ID="4e750c5e-092c-de11-8c6e-0003ff4ed632" Name="Suriname" PhoneNoFormat="" DialingCountryCode="597" InternationalDialingCode="00 " InternetTLD="SR" />
+  <Country ID="4f750c5e-092c-de11-8c6e-0003ff4ed632" Name="Swaziland" PhoneNoFormat="" DialingCountryCode="268" InternationalDialingCode="00 " InternetTLD="SZ" />
+  <Country ID="50750c5e-092c-de11-8c6e-0003ff4ed632" Name="Sweden" PhoneNoFormat="" DialingCountryCode="46" InternationalDialingCode="00 " InternetTLD="SE" />
+  <Country ID="51750c5e-092c-de11-8c6e-0003ff4ed632" Name="Switzerland" PhoneNoFormat="" DialingCountryCode="41" InternationalDialingCode="00 " InternetTLD="CH" />
+  <Country ID="52750c5e-092c-de11-8c6e-0003ff4ed632" Name="Syria" PhoneNoFormat="" DialingCountryCode="963" InternationalDialingCode="00 " InternetTLD="SY" />
+  <Country ID="53750c5e-092c-de11-8c6e-0003ff4ed632" Name="Tahiti" PhoneNoFormat="" DialingCountryCode="689" InternationalDialingCode="00 " InternetTLD="PF" />
+  <Country ID="54750c5e-092c-de11-8c6e-0003ff4ed632" Name="Taiwan" PhoneNoFormat="" DialingCountryCode="886" InternationalDialingCode="002 " InternetTLD="TW" />
+  <Country ID="55750c5e-092c-de11-8c6e-0003ff4ed632" Name="Tajikistan" PhoneNoFormat="" DialingCountryCode="992" InternationalDialingCode="8-10 " InternetTLD="TJ" />
+  <Country ID="56750c5e-092c-de11-8c6e-0003ff4ed632" Name="Tanzania" PhoneNoFormat="" DialingCountryCode="255" InternationalDialingCode="000 " InternetTLD="TZ" />
+  <Country ID="57750c5e-092c-de11-8c6e-0003ff4ed632" Name="Thailand" PhoneNoFormat="" DialingCountryCode="66" InternationalDialingCode="001 " InternetTLD="TH" />
+  <Country ID="58750c5e-092c-de11-8c6e-0003ff4ed632" Name="Togo" PhoneNoFormat="" DialingCountryCode="228" InternationalDialingCode="00 " InternetTLD="TG" />
+  <Country ID="59750c5e-092c-de11-8c6e-0003ff4ed632" Name="Tokelau" PhoneNoFormat="" DialingCountryCode="690" InternationalDialingCode="00 " InternetTLD="TK" />
+  <Country ID="5a750c5e-092c-de11-8c6e-0003ff4ed632" Name="Tonga" PhoneNoFormat="" DialingCountryCode="676" InternationalDialingCode="00 " InternetTLD="TO" />
+  <Country ID="5b750c5e-092c-de11-8c6e-0003ff4ed632" Name="Trinidad &amp; Tobago" PhoneNoFormat="" DialingCountryCode="1-868" InternationalDialingCode="011 " InternetTLD="TT" />
+  <Country ID="5c750c5e-092c-de11-8c6e-0003ff4ed632" Name="Tunisia" PhoneNoFormat="" DialingCountryCode="216" InternationalDialingCode="00 " InternetTLD="TN" />
+  <Country ID="5d750c5e-092c-de11-8c6e-0003ff4ed632" Name="Turkey" PhoneNoFormat="" DialingCountryCode="90" InternationalDialingCode="00 " InternetTLD="TR" />
+  <Country ID="5e750c5e-092c-de11-8c6e-0003ff4ed632" Name="Turkmenistan" PhoneNoFormat="" DialingCountryCode="993" InternationalDialingCode="8-10 " InternetTLD="TM" />
+  <Country ID="5f750c5e-092c-de11-8c6e-0003ff4ed632" Name="Turks and Caicos Islands" PhoneNoFormat="" DialingCountryCode="1-649" InternationalDialingCode="011 " InternetTLD="TC" />
+  <Country ID="60750c5e-092c-de11-8c6e-0003ff4ed632" Name="Tuvalu" PhoneNoFormat="" DialingCountryCode="688" InternationalDialingCode="00 " InternetTLD="TV" />
+  <Country ID="61750c5e-092c-de11-8c6e-0003ff4ed632" Name="United Arab Emirates" PhoneNoFormat="" DialingCountryCode="971" InternationalDialingCode="00 " InternetTLD="AE" />
+  <Country ID="62750c5e-092c-de11-8c6e-0003ff4ed632" Name="Uganda" PhoneNoFormat="" DialingCountryCode="256" InternationalDialingCode="000 " InternetTLD="UG" />
+  <Country ID="64750c5e-092c-de11-8c6e-0003ff4ed632" Name="Ukraine" PhoneNoFormat="" DialingCountryCode="380" InternationalDialingCode="8-10 " InternetTLD="UA" />
+  <Country ID="65750c5e-092c-de11-8c6e-0003ff4ed632" Name="Uruguay" PhoneNoFormat="" DialingCountryCode="598" InternationalDialingCode="00 " InternetTLD="UY" />
+  <Country ID="66750c5e-092c-de11-8c6e-0003ff4ed632" Name="USA" PhoneNoFormat="(###) ###-####" DialingCountryCode="1" InternationalDialingCode="011 " InternetTLD="US" />
+  <Country ID="67750c5e-092c-de11-8c6e-0003ff4ed632" Name="US Virgin Islands" PhoneNoFormat="" DialingCountryCode="1-340" InternationalDialingCode="011 " InternetTLD="VI" />
+  <Country ID="68750c5e-092c-de11-8c6e-0003ff4ed632" Name="Uzbekistan" PhoneNoFormat="" DialingCountryCode="998" InternationalDialingCode="8-10 " InternetTLD="UZ" />
+  <Country ID="69750c5e-092c-de11-8c6e-0003ff4ed632" Name="Vanuatu" PhoneNoFormat="" DialingCountryCode="678" InternationalDialingCode="00 " InternetTLD="VU" />
+  <Country ID="6a750c5e-092c-de11-8c6e-0003ff4ed632" Name="Vatican City State" PhoneNoFormat="" DialingCountryCode="39" InternationalDialingCode="00 " InternetTLD="VA" />
+  <Country ID="6b750c5e-092c-de11-8c6e-0003ff4ed632" Name="Venezuela" PhoneNoFormat="" DialingCountryCode="58" InternationalDialingCode="00 " InternetTLD="VE" />
+  <Country ID="6c750c5e-092c-de11-8c6e-0003ff4ed632" Name="Vietnam" PhoneNoFormat="" DialingCountryCode="84" InternationalDialingCode="00 " InternetTLD="VN" />
+  <Country ID="6d750c5e-092c-de11-8c6e-0003ff4ed632" Name="Wake Island" PhoneNoFormat="" DialingCountryCode="808" InternationalDialingCode="00 " InternetTLD="UM" />
+  <Country ID="6e750c5e-092c-de11-8c6e-0003ff4ed632" Name="Wallis &amp; Futuna Islands" PhoneNoFormat="" DialingCountryCode="681" InternationalDialingCode="19 " InternetTLD="WF" />
+  <Country ID="6f750c5e-092c-de11-8c6e-0003ff4ed632" Name="Western Samoa" PhoneNoFormat="" DialingCountryCode="685" InternationalDialingCode="0 " InternetTLD="WS" />
+  <Country ID="70750c5e-092c-de11-8c6e-0003ff4ed632" Name="Yemen" PhoneNoFormat="" DialingCountryCode="967" InternationalDialingCode="00 " InternetTLD="YE" />
+  <Country ID="71750c5e-092c-de11-8c6e-0003ff4ed632" Name="Zambia" PhoneNoFormat="" DialingCountryCode="260" InternationalDialingCode="00 " InternetTLD="ZM" />
+  <Country ID="72750c5e-092c-de11-8c6e-0003ff4ed632" Name="Zanzibar" PhoneNoFormat="" DialingCountryCode="259" InternationalDialingCode="00 " InternetTLD="TZ" />
+  <Country ID="73750c5e-092c-de11-8c6e-0003ff4ed632" Name="Zimbabwe" PhoneNoFormat="" DialingCountryCode="263" InternationalDialingCode="00 " InternetTLD="ZW" />
+</Countries>

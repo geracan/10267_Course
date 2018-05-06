@@ -1,0 +1,9 @@
+D:\Labfiles\Solution\M4\VB\CustomerManagementEntities\bin\Debug\CustomerManagementEntities.dll
+D:\Labfiles\Solution\M4\VB\CustomerManagementEntities\bin\Debug\CustomerManagementEntities.pdb
+D:\Labfiles\Solution\M4\VB\CustomerManagementEntities\bin\Debug\CustomerManagementEntities.xml
+D:\Labfiles\Solution\M4\VB\CustomerManagementEntities\obj\Debug\ResolveAssemblyReference.cache
+D:\Labfiles\Solution\M4\VB\CustomerManagementEntities\obj\Debug\CustomerManagementEntities.Resources.resources
+D:\Labfiles\Solution\M4\VB\CustomerManagementEntities\obj\Debug\CustomerManagementEntities.vbproj.GenerateResource.Cache
+D:\Labfiles\Solution\M4\VB\CustomerManagementEntities\obj\Debug\CustomerManagementEntities.dll
+D:\Labfiles\Solution\M4\VB\CustomerManagementEntities\obj\Debug\CustomerManagementEntities.xml
+D:\Labfiles\Solution\M4\VB\CustomerManagementEntities\obj\Debug\CustomerManagementEntities.pdb

@@ -1,0 +1,10 @@
+D:\Labfiles\Solution\M4\CS\CustomerManagementEntities\bin\Debug\CustomerManagementEntities.dll
+D:\Labfiles\Solution\M4\CS\CustomerManagementEntities\bin\Debug\CustomerManagementEntities.pdb
+D:\Labfiles\Solution\M4\CS\CustomerManagementEntities\obj\Debug\ResolveAssemblyReference.cache
+D:\Labfiles\Solution\M4\CS\CustomerManagementEntities\obj\Debug\CustomerManagementEntities.dll
+D:\Labfiles\Solution\M4\CS\CustomerManagementEntities\obj\Debug\CustomerManagementEntities.pdb
+D:\Demofiles\M5\CS\CustomerManagementEntities\bin\Debug\CustomerManagementEntities.dll
+D:\Demofiles\M5\CS\CustomerManagementEntities\bin\Debug\CustomerManagementEntities.pdb
+D:\Demofiles\M5\CS\CustomerManagementEntities\obj\Debug\ResolveAssemblyReference.cache
+D:\Demofiles\M5\CS\CustomerManagementEntities\obj\Debug\CustomerManagementEntities.dll
+D:\Demofiles\M5\CS\CustomerManagementEntities\obj\Debug\CustomerManagementEntities.pdb

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CustomerManagementSL
+</name>
+</assembly>
+<members>
+<member name="M:CustomerManagementSL.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:CustomerManagementSL.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

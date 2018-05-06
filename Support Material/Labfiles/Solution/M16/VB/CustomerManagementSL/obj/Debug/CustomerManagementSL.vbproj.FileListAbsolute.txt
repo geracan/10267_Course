@@ -1,0 +1,14 @@
+D:\Labfiles\Starter\M16\VB\CustomerManagementSL\Bin\Debug\CustomerManagementSL.dll
+D:\Labfiles\Starter\M16\VB\CustomerManagementSL\Bin\Debug\CustomerManagementSL.pdb
+D:\Labfiles\Starter\M16\VB\CustomerManagementSL\Bin\Debug\CustomerManagementSL.xml
+D:\Labfiles\Starter\M16\VB\CustomerManagementSL\Bin\Debug\AppManifest.xaml
+D:\Labfiles\Starter\M16\VB\CustomerManagementSL\Bin\Debug\CustomerManagementSL.xap
+D:\Labfiles\Starter\M16\VB\CustomerManagementSL\Bin\Debug\CustomerManagementSLTestPage.html
+D:\Labfiles\Starter\M16\VB\CustomerManagementSL\obj\Debug\ResolveAssemblyReference.cache
+D:\Labfiles\Starter\M16\VB\CustomerManagementSL\obj\Debug\App.g.i.vb
+D:\Labfiles\Starter\M16\VB\CustomerManagementSL\obj\Debug\MainPage.g.i.vb
+D:\Labfiles\Starter\M16\VB\CustomerManagementSL\obj\Debug\CustomerManagementSL.g.resources
+D:\Labfiles\Starter\M16\VB\CustomerManagementSL\obj\Debug\CustomerManagementSL.dll
+D:\Labfiles\Starter\M16\VB\CustomerManagementSL\obj\Debug\CustomerManagementSL.xml
+D:\Labfiles\Starter\M16\VB\CustomerManagementSL\obj\Debug\CustomerManagementSL.pdb
+D:\Labfiles\Starter\M16\VB\CustomerManagementSL\obj\Debug\XapCacheFile.xml

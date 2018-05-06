@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CustomerManagement", "CustomerManagement\", "{14113005-E509-48CE-B0D7-C52FBA652B99}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{C1EDEFAB-B5DA-4703-9C32-23E5C983456D}|CustomerManagementEntities.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/CustomerManagement"
+		Debug.AspNetCompiler.PhysicalPath = "CustomerManagement\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CustomerManagement\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CustomerManagement"
+		Release.AspNetCompiler.PhysicalPath = "CustomerManagement\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CustomerManagement\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49117"
+		VWDDynamicPort = "false"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerManagementEntities", "CustomerManagementEntities\CustomerManagementEntities.csproj", "{C1EDEFAB-B5DA-4703-9C32-23E5C983456D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14113005-E509-48CE-B0D7-C52FBA652B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14113005-E509-48CE-B0D7-C52FBA652B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14113005-E509-48CE-B0D7-C52FBA652B99}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{14113005-E509-48CE-B0D7-C52FBA652B99}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{C1EDEFAB-B5DA-4703-9C32-23E5C983456D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1EDEFAB-B5DA-4703-9C32-23E5C983456D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1EDEFAB-B5DA-4703-9C32-23E5C983456D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1EDEFAB-B5DA-4703-9C32-23E5C983456D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SpecExplorer.ActivityCompletionStatus) = preSolution
+		SpecExplorer.ActivityCompletionStatus = 
+	EndGlobalSection
+EndGlobal
