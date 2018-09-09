@@ -1,0 +1,6 @@
+C:\Users\Sala\Documents\Github\10267_Course\Practices\M2\Started\CustomerManagement\CustomerManagement\bin\CustomerManagement.dll.config
+C:\Users\Sala\Documents\Github\10267_Course\Practices\M2\Started\CustomerManagement\CustomerManagement\bin\CustomerManagement.dll
+C:\Users\Sala\Documents\Github\10267_Course\Practices\M2\Started\CustomerManagement\CustomerManagement\bin\CustomerManagement.pdb
+C:\Users\Sala\Documents\Github\10267_Course\Practices\M2\Started\CustomerManagement\CustomerManagement\obj\Debug\CustomerManagement.csproj.CoreCompileInputs.cache
+C:\Users\Sala\Documents\Github\10267_Course\Practices\M2\Started\CustomerManagement\CustomerManagement\obj\Debug\CustomerManagement.dll
+C:\Users\Sala\Documents\Github\10267_Course\Practices\M2\Started\CustomerManagement\CustomerManagement\obj\Debug\CustomerManagement.pdb
